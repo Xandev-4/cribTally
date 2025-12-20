@@ -5,10 +5,12 @@ Crib Tally helps roommates track shared expenses and meals, with equal split and
 <br>
 <br>
 
-# MVP Screens
+# Features (MVP Only)
+
+<br>
 
 - Landing
-- Login/Register
+- Login/Register (User authentication)
 - Create/Join Crib
 - Crib Dashboard
 - Add Expense

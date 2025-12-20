@@ -1,0 +1,37 @@
+{
+  "name": "cribtally",
+  "version": "1.0.0",
+  "description": "An expense tracker for roommates",
+  "main": "index.js",
+  "type": "model",
+  "scripts": {
+    "server": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xandev-4/cribTally.git"
+  },
+  "keywords": [
+    "expense",
+    "javascript",
+    "nodejs",
+    "expressjs",
+    "jwt"
+  ],
+  "author": "S Gyan Prasad Achary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xandev-4/cribTally/issues"
+  },
+  "homepage": "https://github.com/Xandev-4/cribTally#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
